@@ -1,2 +1,0 @@
-# loja
-Created with CodeSandbox
